@@ -24,6 +24,11 @@
   color: white;
 }
 
+.header {
+  font-weight: 600;
+  font-size: 2rem;
+}
+
 .App-link {
   color: #61dafb;
 }
